@@ -1,0 +1,31 @@
+.listItem {
+    width: 225px;
+    height: 200px;
+    background-color: rgb(0 0 0 / 0.2);
+    margin-right: 30px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .listItem img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    z-index: 0;
+  }
+  
+.itemInfo{
+  width: 100%;
+  height: 30px;
+}
+.movie-title{
+  color: rgb(247, 244, 244);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+
+  
+
+  
+
