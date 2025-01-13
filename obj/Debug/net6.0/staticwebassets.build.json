@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "sO1xw5B6AyAP51G84UBXkCDI+sV6EGIUP8/fYtCV+8w=",
+  "Source": "neflix",
+  "BasePath": "_content/neflix",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "neflix\\wwwroot",
+      "Source": "neflix",
+      "ContentRoot": "E:\\netflieeProject\\neflix\\neflix\\wwwroot\\",
+      "BasePath": "_content/neflix",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

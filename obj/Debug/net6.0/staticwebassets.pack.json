@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\netflieeProject\\neflix\\neflix\\wwwroot\\videos\\2e10976a-6532-4954-91cf-77cd71876e58.mp4",
+      "PackagePath": "staticwebassets\\videos\\2e10976a-6532-4954-91cf-77cd71876e58.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.neflix.props",
+      "PackagePath": "build\\neflix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.neflix.props",
+      "PackagePath": "buildMultiTargeting\\neflix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.neflix.props",
+      "PackagePath": "buildTransitive\\neflix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.neflix.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
